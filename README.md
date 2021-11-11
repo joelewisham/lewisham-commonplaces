@@ -1,4 +1,4 @@
-# commonplac.es consultations
+# commonplace.is consultations
 
 this repo downloads a selection of consultations and adds them to a collection of tables in a sqlite database
 
